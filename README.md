@@ -1,4 +1,5 @@
 # Web3.0 华语媒体 RSS订阅源
+作者：**[@panghu960](https://twitter.com/panghu960)**
 
 ## 律动Blockbeat：
 
