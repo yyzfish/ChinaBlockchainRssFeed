@@ -98,11 +98,11 @@ RSS作者: **[@nczitzk](https://github.com/nczitzk)**
 
 ## PANews
 
-### [\#](https://docs.web30.lol/new-media.html#panews-shen-du)深度
+### 深度
 
 作者: [@nczitzk](https://github.com/nczitzk)
 
-举例: [https://web30.lol/panewslab](https://web30.lol/panewslab)
+举例: [https://rss.web30.lol/panewslab](https://rss.web30.lol/panewslab)
 
 路由: `/panewslab/:category?`
 
@@ -113,21 +113,21 @@ RSS作者: **[@nczitzk](https://github.com/nczitzk)**
 | **精选** | **链游** | **元宇宙** | **NFT** | **DeFi** | **监管** | **央行数字货币** | **波卡** | **Layer 2** | **DAO** | **融资** | **活动** |
 | ------ | ------ | ------- | ------- | -------- | ------ | ---------- | ------ | ----------- | ------- | ------ | ------ |
 
-### [\#](https://docs.web30.lol/new-media.html#panews-kuai-xun)快讯
+### 快讯
 
 作者: [@nczitzk](https://github.com/nczitzk)
 
-举例: [https://web30.lol/panewslab/news](https://web30.lol/panewslab/news)
+举例: [https://rss.web30.lol/panewslab/news](https://rss.web30.lol/panewslab/news)
 
 路由: `/panewslab/news`
 
 参数: 无
 
-### [\#](https://docs.web30.lol/new-media.html#panews-zhuan-lan)专栏
+### 专栏
 
 作者: [@nczitzk](https://github.com/nczitzk)
 
-举例: [https://web30.lol/panewslab/author/166](https://web30.lol/panewslab/author/166)
+举例: [https://rss.web30.lol/panewslab/author/166](https://rss.web30.lol/panewslab/author/166)
 
 路由: `/panewslab/author/:id`
 
@@ -135,11 +135,11 @@ RSS作者: **[@nczitzk](https://github.com/nczitzk)**
 
 - `id`, 必选 - 专栏 id，可在地址栏 URL 中找到
 
-### [\#](https://docs.web30.lol/new-media.html#panews-zhuan-ti)专题
+### 专题
 
 作者: [@nczitzk](https://github.com/nczitzk)
 
-举例: [https://web30.lol/panewslab/topic/1629365774078402](https://web30.lol/panewslab/topic/1629365774078402)
+举例: [https://rss.web30.lol/panewslab/topic/1629365774078402](https://rss.web30.lol/panewslab/topic/1629365774078402)
 
 路由: `/panewslab/topic/:id`
 
