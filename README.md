@@ -85,44 +85,54 @@ RSS作者: **[@nczitzk](https://github.com/nczitzk)**
 
 参数: 无
 
-##PANews
-### 深度
-作者: @nczitzk
+## PANews
 
-举例: https://rss.web30.lol/panewslab
+### [\#](https://docs.rsshub.app/new-media.html#panews-shen-du)深度
 
-路由: /panewslab/:category?
+作者: [@nczitzk](https://github.com/nczitzk)
+
+举例: [https://rsshub.app/panewslab](https://rsshub.app/panewslab)
+
+路由: `/panewslab/:category?`
 
 参数:
 
-category, 可选 - 分类，见下表，默认为精选
-精选	链游	元宇宙	NFT	DeFi	监管	央行数字货币	波卡	Layer 2	DAO	融资	活动
-### 快讯
-作者: @nczitzk
+- `category`, 可选 - 分类，见下表，默认为精选
 
-举例: https://rss.web30.lol/panewslab/news
+| **精选** | **链游** | **元宇宙** | **NFT** | **DeFi** | **监管** | **央行数字货币** | **波卡** | **Layer 2** | **DAO** | **融资** | **活动** |
+| ------ | ------ | ------- | ------- | -------- | ------ | ---------- | ------ | ----------- | ------- | ------ | ------ |
 
-路由: /panewslab/news
+### [\#](https://docs.rsshub.app/new-media.html#panews-kuai-xun)快讯
+
+作者: [@nczitzk](https://github.com/nczitzk)
+
+举例: [https://rsshub.app/panewslab/news](https://rsshub.app/panewslab/news)
+
+路由: `/panewslab/news`
 
 参数: 无
 
-### 专栏
-作者: @nczitzk
+### [\#](https://docs.rsshub.app/new-media.html#panews-zhuan-lan)专栏
 
-举例: https://rss.web30.lol/panewslab/author/166
+作者: [@nczitzk](https://github.com/nczitzk)
+
+举例: [https://rsshub.app/panewslab/author/166](https://rsshub.app/panewslab/author/166)
 
 路由: `/panewslab/author/:id`
 
 参数:
 
-id, 必选 - 专栏 id，可在地址栏 URL 中找到
-### 专题
-作者: @nczitzk
+- `id`, 必选 - 专栏 id，可在地址栏 URL 中找到
 
-举例: https://rss.web30.lol/panewslab/topic/1629365774078402
+### [\#](https://docs.rsshub.app/new-media.html#panews-zhuan-ti)专题
+
+作者: [@nczitzk](https://github.com/nczitzk)
+
+举例: [https://rsshub.app/panewslab/topic/1629365774078402](https://rsshub.app/panewslab/topic/1629365774078402)
 
 路由: `/panewslab/topic/:id`
 
 参数:
 
-id, 必选 - 专题 id，可在地址栏 URL 中找到
+- `id`, 必选 - 专题 id，可在地址栏 URL 中找到
+
