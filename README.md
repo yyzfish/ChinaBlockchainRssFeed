@@ -1,6 +1,17 @@
 # Web3.0 华语媒体 RSS订阅源
 作者：**[@panghu960](https://twitter.com/panghu960)**
 
+> 项目初衷：一直想找几个主流web3.0媒体华语RSS媒体，一直找不到（比如律动，金色财经，链捕手）等等，无奈只能自己写一个《华语主流媒体RSS订阅源》。
+
+## 当前已支持：
+- [x] 律动Blockbeat
+- [x] 金色财经
+- [x] Odaily 星球日报
+- [x] PANews
+
+## NEXT
+- [ ] N/A
+
 ## 律动Blockbeat：
 
 文章
