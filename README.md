@@ -15,20 +15,19 @@ ETH：0xE971263B24024Fdf7d7fb090F5c89861486816b2
 - [x] PANews
 
 ## NEXT
-- [ ] 文章重复检测
-
+- [ ] 文章重复检测     
 ## 律动Blockbeat：
 
-### 文章
+#### 文章
 
 [https://rss.web30.lol/b2](https://rss.web30.lol/b2)
 
 ##  金色财经
 
-### 文章
+#### 文章
 现在更新了一个支持正文显示的版本。推荐🔥
 
-[https://rss.web30.lol/jinse2](https://rss.web30.lol/jinse2)
+举例: [https://rss.web30.lol/jinse2](https://rss.web30.lol/jinse2)
 
 ### 其他版本⬇️
 
