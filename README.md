@@ -19,13 +19,18 @@ ETH：0xE971263B24024Fdf7d7fb090F5c89861486816b2
 
 ## 律动Blockbeat：
 
-文章
+### 文章
 
 [https://rss.web30.lol/b2](https://rss.web30.lol/b2)
 
 ##  金色财经
 
-RSS作者: **[@nczitzk](https://github.com/nczitzk)**
+### 文章
+现在更新了一个支持正文显示的版本。推荐🔥
+
+[https://rss.web30.lol/jinse2](https://rss.web30.lol/jinse2)
+
+### 其他版本⬇️
 
 #### 快讯
 
@@ -34,6 +39,8 @@ RSS作者: **[@nczitzk](https://github.com/nczitzk)**
 路由: `/jinse/lives`
 
 #### 头条
+
+
 
 举例: **[https://rss.web30.lol/jinse/timeline](https://rss.web30.lol/jinse/timeline)**
 
